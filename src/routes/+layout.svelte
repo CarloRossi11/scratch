@@ -9,10 +9,13 @@
         display: flex;
         justify-content: space-evenly;
         background-color: black;
-        font-family: Arial, Helvetica, sans-serif
+        font-family: 'Courier New', Courier, monospace;
     }
     a {
         color: white;
+    }
+    a:hover {
+        cursor: pointer; /* Change cursor to pointer on hover */
     }
 </style>
 
